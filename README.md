@@ -206,3 +206,5 @@ Why?
 ✅ Luxury Demand: Preferred by Fortune 500 execs for its cabin comfort
 
 Action: Acquire 2–3 units for premium private charters and corporate shuttle services.
+
+https://public.tableau.com/app/profile/joan.kerich/viz/AircraftRisk/AIRCRAFTRISK
