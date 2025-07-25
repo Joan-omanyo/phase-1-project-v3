@@ -115,7 +115,7 @@ This shows that models where accidents are most likely to be fatal (e.g., small 
 
 Fatality Rate = (Number of Fatal Accidents) / (Total Accidents).
 
-![Top 7 Riskiest Aircraft by Fatality Rate (%)](images/output_61_0.png)
+![Top 7 Riskiest Aircraft by Fatality Rate (%)](images/output_56_0.png)
 
 
 ### 3.2 Time Trend Analysis
