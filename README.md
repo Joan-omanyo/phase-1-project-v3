@@ -124,11 +124,16 @@ Key Insight: Commercial aviation shows 45% reduction in fatality rates since 200
 
 Generally implies that flights are getting safer. The more modern or resent of the best aircraft means almost no fatalities.
 
+![Flight volume vs Fatality Rate](images/output_58_1.png)
+
+
 ### 3.3 Fatality rate by Engine Type
 
 The Turbofan engine has the least fatality rate and the highest survival rate.
 
 Followed by the Turbojet and Piston engines.
+
+![Fatality Rate by Engine Type](images/output_61_1.png)
 
 ### 3.4 Interactive Risk Dashboard using Plotly
 
